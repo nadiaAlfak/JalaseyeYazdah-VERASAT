@@ -4,5 +4,6 @@ public class Asli {
         harfeSevom.sevom();
         ChandHarfi chandHarfi=new ChandHarfi();
         chandHarfi.Shomarande();
+
     }
 }
